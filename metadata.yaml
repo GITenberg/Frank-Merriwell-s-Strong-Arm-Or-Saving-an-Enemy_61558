@@ -1,0 +1,37 @@
+_repo: Frank-Merriwell-s-Strong-Arm-Or-Saving-an-Enemy_61558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Wilder, William W. (William West)
+    - Patten, William G. (William Gilbert)
+    - Wilder, William West
+    - Patten, William Gilbert
+    - Patten, George William
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Merriwell Series No. 71
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dime novels'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Yale University -- Juvenile fiction'
+- !lcsh 'College seniors -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+- GITenberg
+title: Frank Merriwell's Strong Arm; Or, Saving an Enemy
+url: http://www.gutenberg.org/ebooks/61558
